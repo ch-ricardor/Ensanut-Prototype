@@ -60,7 +60,14 @@ User and admin guide - https://ihsn.github.io/nada-documentation/
 
 ### Documentation
 
+Esta bitácora expica parte del proceso de exploración de los datos.
 
+El objetivo es poder crear ambientes que permitan a los "consumidores" de datos poder accederlos, leerlos y entenderlos.
+
+Programátiamente, simplemente son ciclos estilo "Repor Programming Generator" (RPG) creado por IBM en 1959, utilizando objetos visuales desarrollados en JAVA.
+
+
+https://www.linkedin.com/pulse/exploraci%C3%B3n-de-datos-ensanut-bam-foodex2-utilizando-y-ricardo-niize/
 
 ## Versioning
 
